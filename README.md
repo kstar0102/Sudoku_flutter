@@ -53,12 +53,3 @@ The details of the how's and why's of this app's are available in
 <img src="readme-assets/screenshots/dark/4.png" height="480"></img>
 <img src="readme-assets/screenshots/dark/5.png" width="480"></img>
 <img src="readme-assets/screenshots/dark/6.png" width="480"></img>
-
-## Running the app
-
-Android apks are available at the
-[releases page](https://github.com/KalilDev/sudoku/releases), and will soon be
-uploaded to the Play Store.
-
-The app is also acessible on the
-[website](https://kalildev.github.io/sudoku/index.html), although it is slower.
